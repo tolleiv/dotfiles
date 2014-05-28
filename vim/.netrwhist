@@ -1,2 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/info/Entwicklung/AOE/defaultbox/site-cookbooks/qvc/recipes'
+let g:netrw_dirhist_2='/Users/info/Entwicklung/lidl-box'
+let g:netrw_dirhist_3='/Users/info/.zsh'
+let g:netrw_dirhist_4='/Users/info/.zsh/lib'
+let g:netrw_dirhist_5='/Users/info/Entwicklung/chefspec/spec'
+let g:netrw_dirhist_6='/Users/info/Entwicklung/artefacts/node_modules/.bin'
+let g:netrw_dirhist_7='/Users/info/Entwicklung/congstar/attributes'
+let g:netrw_dirhist_8='/Users/info/Entwicklung/saascluster-serversetup/site-cookbooks/saascluster/recipes'
+let g:netrw_dirhist_9='/Users/info/Entwicklung/serversetup/cookbooks'
